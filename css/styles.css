@@ -31,9 +31,14 @@ h1, h2, h3, h4, h5, h6 {
     color: #FFF; 
     text-decoration: none;
 }
+
 .header-links a:hover { 
     color: #5AB8FF; 
     text-decoration: none; 
+}
+
+.jumbotron { 
+    max-width: 650px;
 }
 
 
@@ -44,5 +49,5 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 768px)
 {
-    .header-links { font-size: 1.15rem; }
+    .header-links { font-size: 1.3rem; }
 }
