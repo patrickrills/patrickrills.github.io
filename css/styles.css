@@ -41,13 +41,43 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 650px;
 }
 
+.chevron { 
+    font-family: "Font Awesome 6 Free";
+    font-size: .9em;
+    line-height: 1em;
+    vertical-align: -0.06em;
+    font-weight: 900;
+    text-decoration: none;
+    margin-left: 3px;
+    display: inline-block;
+}
 
-@media (max-width: 767px)
+.chevron::before { 
+    content: "\f105";
+}
+
+.bg-card-duffy { 
+    background-color: #66ABE4;
+}
+
+.bg-card-squiddle { 
+    background-color: #330365;
+}
+
+@media (max-width: 575px)
 {
     .header-links { font-size: 2rem; }
 }
 
-@media (min-width: 768px)
+@media (min-width: 576px)
 {
     .header-links { font-size: 1.3rem; }
+}
+
+@media (min-width: 650px)
+{
+    .content { 
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
 }
