@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="200px" height="200px" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<style>
+		path, polygon {
+			fill: #0F1E46;
+		}
+		@media ( prefers-color-scheme: dark ) {
+			path, polygon {
+				fill: #1b9bfc;
+			}
+		}
+	</style>
+<g>
+	<path d="M152.008,111.453"/>
+	<polygon points="146.379,61.745 146.379,61.745 131.564,36.72 61.633,21.123 3.083,55.791 108.968,83.904 
+		82.706,190.264 141.256,155.592 161.202,86.776 	"/>
+	<path d="M144.093,60.171"/>
+	<path d="M146.715,64.593"/>
+	<g>
+		<polygon points="165.949,83.855 177.682,84.681 196.736,73.396 189.638,38.9 152.391,60.955 		"/>
+		<polygon points="136.428,33.891 141.162,23.003 160.226,11.72 187.06,34.536 149.801,56.59 		"/>
+	</g>
+	<polygon points="64.362,77.587 102.282,87.876 92.846,125.874 70.108,106.9 	"/>
+</g>
+</svg>
